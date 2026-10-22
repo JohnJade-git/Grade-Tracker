@@ -64,7 +64,7 @@ class _GradeTrackerAppState extends State<GradeTrackerApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       navigatorKey: _navigatorKey,
-      title: 'Grade Garden',
+      title: 'Grade Tracker-Fajilan, Sernal, Cabailo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         scaffoldBackgroundColor: paper,
